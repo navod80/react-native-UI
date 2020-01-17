@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="20px" height="14px" viewBox="0 0 20 14" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 58 (84663) - https://sketch.com -->
+    <title>back</title>
+    <desc>Created with Sketch.</desc>
+    <g id="Page-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="user-profile" transform="translate(-23.000000, -64.000000)">
+            <g id="header" transform="translate(-0.240000, 0.000000)">
+                <g id="back" transform="translate(20.240000, 58.000000)">
+                    <rect id="Rectangle" x="0" y="0" width="25" height="25"></rect>
+                    <path d="M9.25358696,6.20269565 C9.52384783,5.93243478 9.94932609,5.93243478 10.219587,6.20269565 C10.4807174,6.46382609 10.4807174,6.89843478 10.219587,7.15895652 L5.32141304,12.0571304 L21.4847174,12.0571304 C21.8615,12.0571304 22.1707174,12.3566087 22.1707174,12.7333913 C22.1707174,13.1101739 21.8615,13.4193913 21.4847174,13.4193913 L5.32141304,13.4193913 L10.219587,18.3084348 C10.4807174,18.5786957 10.4807174,19.013913 10.219587,19.2744348 C9.94932609,19.5446957 9.52384783,19.5446957 9.25358696,19.2744348 L3.19584783,13.2166957 C2.93471739,12.9555652 2.93471739,12.5209565 3.19584783,12.2604348 L9.25358696,6.20269565 Z" id="Path" fill="#FFFFFF" fill-rule="nonzero"></path>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>
